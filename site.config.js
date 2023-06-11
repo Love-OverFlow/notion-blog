@@ -51,9 +51,9 @@ const CONFIG = {
     },
   },
   utterances: { // 博客的评论系统 1
-    enable: false,
+    enable: true,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "Love-OverFlow/notion-blog",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
