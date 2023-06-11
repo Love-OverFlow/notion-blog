@@ -7,7 +7,7 @@ const CONFIG = {
     bio: "This is my blog, also my wiki.",
     email: "tpwu.cs@gmail.com",
     linkedin: "",
-    github: "https://github.com/Love-OverFlow",
+    github: "Love-OverFlow",
     instagram: "",
   },
   projects: [
@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "Love-Overflow's blog",
-    description: "welcome to morethan-log!",
+    description: "Blog and wiki, mainly about computer science.",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
@@ -29,7 +29,7 @@ const CONFIG = {
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-playground.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Blog", "Website", "Notion"],
+    keywords: ["Blog", "CS", "Wiki", "Note"],
   },
 
   // notion configuration (required)
